@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+devtools/encode src/SiteWatchman.php dist/
+cp src/swcon.php ./LICENSE dist/

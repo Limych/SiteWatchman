@@ -1,0 +1,23 @@
+{
+	"name" : "limych/site-watchman",
+	"description" : "Utility to continuously check your site content for malware",
+	"type" : "project",
+	"require" : {
+		"php" : ">=5.5"
+	},
+	"license" : "GPL-3.0",
+	"authors" : [{
+			"name" : "Andrey Khrolenok",
+			"email" : "andrey@khrolenok.ru",
+			"homepage" : "https://github.com/Limych"
+		}
+	],
+	"minimum-stability" : "stable",
+	"support" : {
+		"issues" : "https://github.com/Limych/SiteWatchman/issues",
+		"wiki" : "https://github.com/Limych/SiteWatchman/wiki"
+	},
+	"keywords" : [
+		"web site protection malware trojan virus"
+	]
+}
