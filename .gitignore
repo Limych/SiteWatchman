@@ -5,8 +5,7 @@ vendor/
 # Configuration files with possibly sensitive information
 
 # Files and folders related to build/test tools
-/devtools/
-sw_*.db
+*.db
 
 # Ignore other .gitignore files to allow for personal customizations
 .gitignore

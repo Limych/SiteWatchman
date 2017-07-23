@@ -3,7 +3,7 @@
 /**
  * Place here absolute or relative path to SiteWatchman script.
  */
-define('SW_PATH', './SiteWatchman.php');
+define('SW_PATH', './0afc0208.php');
 
 /**
  * You can place here path to root of directories to process by script.
